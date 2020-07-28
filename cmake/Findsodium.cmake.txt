@@ -1,0 +1,3 @@
+We copied this file (same name but without .txt at end) from:
+https://github.com/jedisct1/libsodium/blob/2bf56d7ebd8a3167d6bb36340230b6013218a5cc/contrib/Findsodium.cmake
+and placed it here into PFP-CPP source code.
